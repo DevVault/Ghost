@@ -8804,9 +8804,10 @@ mocha@9.2.2:
     yargs-parser "20.2.4"
     yargs-unparser "2.0.0"
 
-mock-knex@TryGhost/mock-knex#master:
-  version "0.4.9"
-  resolved "https://codeload.github.com/TryGhost/mock-knex/tar.gz/ca59191f4905753a2b2b17f52e2c2df375cbf952"
+mock-knex@0.4.10:
+  version "0.4.10"
+  resolved "https://registry.yarnpkg.com/mock-knex/-/mock-knex-0.4.10.tgz#e3324286a16da913527c6a3f305b7681390b92a1"
+  integrity sha512-LvgctE44DyQSkk2sRHGPHuE/8Oq8ShawT/FG7YAXGMDCCpPaeMjHs6ZBMbJMq+K6MoM9Socs/viTw26yS5y5GA==
   dependencies:
     bluebird "^3.4.1"
     lodash "^4.14.2"
